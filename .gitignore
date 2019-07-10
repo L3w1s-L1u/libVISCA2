@@ -1,0 +1,6 @@
+# editor buffers
+*.sw[a-z]
+
+# binary intermediate files
+*.[ao]
+*.[sk]o
